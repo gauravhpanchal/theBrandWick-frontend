@@ -12,7 +12,7 @@ import Register from "./components/Register";
 import Error from "./components/Error";
 import Welcome from "./components/Welcome";
 
-axios.defaults.withCredentials = true;
+// axios.defaults.withCredentials = true;
 
 const appRouter = createBrowserRouter([
   {
